@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 🔭 I’m currently working on my portfolio using React & Gatsby.
-- 🌱 I’m currently learning algorithms.
+- 🌱 I’m currently learning algorithms and data structures.
 - 👯 I’m looking to collaborate on frontend projects.
 - 🤔 I’m looking for help with keeping my code less DRY.
 - 📧 How to reach me: rianna.cleary@gmail.com
